@@ -14,7 +14,7 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Online Aid For Detecting Brain Tumor And Tuberculosis Using Deep Learning](#online-aid-for-detecting-brain-tumor-and-tuberculosis-using-deep-learning)
 	+ [Restaurant Tip Calculator using JavaScript](#restaurant-tip-calculator-using-javaScript)
 	+ [Differentiating Fake and Real News](#differentiating-fake-and-real-news)
-	+ [QR Code/Barcode Scanner using Pyzbar package](#qr-code/barcode-scanner-using-pyzbar-package)
+	+ [QR Code/Barcode Scanner using Pyzbar package](#qr-code-barcode-scanner-using-pyzbar-package)
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
     + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
     + [Calculate Order History](#calculate-order-history)
