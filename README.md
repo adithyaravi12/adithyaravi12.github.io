@@ -31,10 +31,10 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 In this section I will list projects briefly describing the technology stack used to solve cases.
 
 ### [Online Aid For Detecting Brain Tumor And Tuberculosis Using Deep Learning](https://github.com/adithyaravi12/online-aid-bt_tb)
-**Code:** [`main.ipynb`](https://github.com/adithyaravi12/online-aid-bt_tb)    
+**Code:** [`index.html`](https://github.com/adithyaravi12/online-aid-bt_tb)    
 **Description:** A online web application with a trained CNN model detects the existence of a brain tumor or tuberculosis using photographs of the patient's x-ray and MRI scan.  
 **Technology:** Python, HTML, Materialize CSS, JavaScript  
-**Results:**   
+**Results:** A basic interface that is self explanatory allowing users to navigate with no difficulty and the model generates a report reading the image from the user.   
 
 ### [Restaurant Tip Calculator using JavaScript](https://github.com/adithyaravi12/tip-calc)
 **Code:** [`index.html`](https://github.com/adithyaravi12/tip-calc)     
