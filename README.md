@@ -14,7 +14,7 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Online Aid For Detecting Brain Tumor And Tuberculosis Using Deep Learning](#online-aid-for-detecting-brain-tumor-and-tuberculosis-using-deep-learning)
 	+ [Restaurant Tip Calculator using JavaScript](#restaurant-tip-calculator-using-javaScript)
 	+ [Differentiating Fake and Real News](#differentiating-fake-and-real-news)
-	+ [QR Code/Barcode Scanner using Pyzbar package](#qr-code-barcode-scanner-using-pyzbar-package)
+	+ [Matrix code Scanner using Pyzbar package](#matrix-code-scanner-using-pyzbar-package)
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
     + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
     + [Calculate Order History](#calculate-order-history)
@@ -48,7 +48,7 @@ In this section I will list projects briefly describing the technology stack use
 **Technology:** Python, Pandas, Numpy, TfidfVectorization, Passive Aggressive Classifier     
 **Results:**   When the model is run, it creates a confusion matrix and reports the model's accuracy as well as other evaluation metrics.
 
-### [QR Code/Barcode Scanner using Pyzbar package](https://github.com/adithyaravi12/code-scanner)
+### [Matrix code Scanner using Pyzbar package](https://github.com/adithyaravi12/code-scanner)
 **Code:** [`code_type_detection.ipynb`](https://github.com/adithyaravi12/code-scanner/blob/main/code_type_detection.ipynb)     
 **Description:** Using opencv and pyzbar packages, python program is written so as to recognize the type of code that is being displayed on the screen and decode the data to a user-readable format and open links.       
 **Technology:** Python, OpenCV, Pyzbar   
