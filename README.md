@@ -82,7 +82,7 @@ In this section I will provide links to my github repositories containing code a
 **Technology:** HTML, CSS, JavaScript  
 **Results:** Working game rendered with basic gameplay
 
-### [Generate random passwords using JavaScript](https://github.com/adithyaravi12/online_courseworks/tree/main/scrimba/black-jack)
+### [Generate random passwords using JavaScript](https://github.com/adithyaravi12/online_courseworks/tree/main/scrimba/generate-passwords)
 **Code:** [`index.html`](https://github.com/adithyaravi12/online_courseworks/blob/main/scrimba/generate-passwords/index.html)    
 **Description:**   This was scrimba's second solo project while learning javascript from the ground up. The project is built from the scratch using the template provided and displays randomly generated passwords with the click of a button.  
 **Technology:** HTML, CSS, JavaScript  
