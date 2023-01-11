@@ -73,7 +73,7 @@ In this section I will list projects briefly describing the technology stack use
 **Technology:** Python, Pandas  
 **Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
 
-###[Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
+### [Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
 **Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)
 **Description:** Design a basic halloween themed game and implement it using two software design patterns.
 **Technology:** Python
