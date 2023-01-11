@@ -16,7 +16,7 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Differentiating Fake and Real News](#differentiating-fake-and-real-news)
 	+ [Matrix code Scanner using Pyzbar package](#matrix-code-scanner-using-pyzbar-package)
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
-    	+ [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
+    + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
    	+ [Calculate Order History](#calculate-order-history)
    	+ [Trail of Terror](#trail-of-terror)
 - [Study Projects](#study-projects)  
