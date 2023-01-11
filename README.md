@@ -16,8 +16,9 @@ This is to showcase skills, share projects and track my progress in Data Analyti
 	+ [Differentiating Fake and Real News](#differentiating-fake-and-real-news)
 	+ [Matrix code Scanner using Pyzbar package](#matrix-code-scanner-using-pyzbar-package)
 	+ [Mask Detection using OpenCV](#mask-detection-using-openCV)
-    + [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
+    	+ [Heart Attack Prediction Using Multi-layer Perceptron Model](#heart-attack-prediction-using-multi-layer-perceptron-model)
    	+ [Calculate Order History](#calculate-order-history)
+   	+ [Trail of Terror](#trail-of-terror)
 - [Study Projects](#study-projects)  
     + [Black Jack game using JavaScript](#black-jack-game-using-javaScript)
 	+ [Generate random passwords using JavaScript](#generate-random-passwords-using-javaScript)
@@ -71,6 +72,12 @@ In this section I will list projects briefly describing the technology stack use
 **Description:** I used numpy in python to analyze amazon data to see how much money I spent on the e-commerce website. (All figures are in rupees.)  
 **Technology:** Python, Pandas  
 **Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
+
+###[Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
+**Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)
+**Description:** Design a basic halloween themed game and implement it using two software design patterns.
+**Technology:** Python
+**Result:** An interactive game window, where the user will be able to play the game with the arrow keys.
 
 
 ## Study Projects
