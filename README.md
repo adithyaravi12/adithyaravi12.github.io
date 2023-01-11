@@ -74,7 +74,7 @@ In this section I will list projects briefly describing the technology stack use
 **Results:** Displays a bar graph depicting the amount of money spent on certain years throughout time.
 
 ### [Trail of Terror](https://github.com/adithyaravi12/trail_of_terror)
-**Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)
+**Code:**[`main.py`](https://github.com/adithyaravi12/trail_of_terror/blob/main/main.py)  <br>
 **Description:** Design a basic halloween themed game and implement it using two software design patterns.  <br>
 **Technology:** Python  <br>
 **Result:** An interactive game window, where the user will be able to play the game with the arrow keys.  <br>
